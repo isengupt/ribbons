@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <div className="frame">
-    <h1 className="frame__title">Ribbons</h1>
+    <h1 className="frame__title">Ribbons Demo</h1>
     <div className="frame__links"></div>
     <div className="frame__nav">
       <a
